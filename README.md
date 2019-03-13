@@ -8,14 +8,14 @@
   * 농장, 마트 사이의 중간에서 구매 및 판매를 진행하는 유통업계에서 사용하기 위한 사내어플리케이션(직원관리, 거래처관리, 구매/판매, 제품 입/출고관리를 위한 창고관리) 웹사이트 입니다.
   
 **공헌내용(Contribution)**
-  * 참여도(4인 프로젝트): 90%
-  * 역할(팀원) : DB설계, 웹 Layout 스케치 및 제작, DB액션, 웹 디자인 등.
-  * 화면 처리, 액션, 결과 : jQuery, Ajax, JSON
-  * 웹 디자인 및 구성 : HTML, CSS, BootStrap, JavaScript, Fontawesome
+  - 참여도(4인 프로젝트): 90%
+  - 역할(팀원) : DB설계, 웹 Layout 스케치 및 제작, DB액션, 웹 디자인 등.
+  - 화면 처리, 액션, 결과 : jQuery, Ajax, JSON
+  - 웹 디자인 및 구성 : HTML, CSS, BootStrap, JavaScript, Fontawesome
    * 참고 웹사이트  : [W3School](www.W3School.com)
-  * ServerSide : JAVA, JSP, JSTL, EL
-  * DB Handle : MyBatis
-  * 사용 Tools : Eclips(Spring Tool Suite), Apache Tomcat v8.5(Local), JDK, MAVEN, Oracle-11XE(가상머신/Centos 7 이용)
+  - ServerSide : JAVA, JSP, JSTL, EL
+  - DB Handle : MyBatis
+  - 사용 Tools : Eclips(Spring Tool Suite), Apache Tomcat v8.5(Local), JDK, MAVEN, Oracle-11XE(가상머신/Centos 7 이용)
   
 >**프로젝트2(Project)**
 
