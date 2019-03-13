@@ -10,12 +10,13 @@
 **공헌내용(Contribution)**
   - 참여도(4인 프로젝트): 90%
   
-  - 역할(팀원) : DB설계, 웹 Layout 스케치 및 제작, DB액션, 웹 디자인 등.
+  - 역할(팀원) : DB설계, 웹 Layout 스케치 및 제작, DB액션, 웹 디자인 등.(전체적인 부분을 제작)
   
   - 화면 처리, 액션, 결과 : jQuery, Ajax, JSON
   
   - 웹 디자인 및 구성 : HTML, CSS, BootStrap, JavaScript, Fontawesome
      * 참고 웹사이트  : [W3School](https://www.w3schools.com)
+     
   - ServerSide : JAVA, JSP, JSTL, EL
   
   - DB Handle : MyBatis
@@ -24,10 +25,27 @@
   
 >**프로젝트2(Project)**
 
+[대학생-직장인 커뮤니티 게시판 웹(바로가기)](https://github.com/teddyray91/jspproject/tree/master/JSP_miniProject)
+
 **개요(Introduce)**
-
+  * 일반적인 커뮤니티 웹이며 대학생 및 직장인이 자유롭게 글을 작성할수 있는 웹, 주요 기능으로 좋아요/싫어요, 댓글(Ajax), 미승인(가입), 일반유저, 관리자에 따른 권한제공, 반응형 웹
+  
 **공헌내용(Contribution)**
-
+  - 참여도(3인 프로젝트): 50%
+  
+  - 역할(팀리더) : DB설계, 웹 Layout 스케치 및 제작, DB액션, 웹 디자인, 페이징 알고리즘 적용, 유저권한, 로그인, 페이지(동적) 출력, 반응형 등.
+  
+  - 화면 처리, 액션, 결과 : jQuery, Ajax, JSON
+  
+  - 웹 디자인 및 구성 : HTML, CSS, JavaScript, Fontawesome
+     * 참고 웹사이트  : [W3School](https://www.w3schools.com)
+     
+  - ServerSide : JAVA, JSP, cos, jdom
+  
+  - DB Handle : JDBC(Connection Pool)
+  
+  - 사용 Tools : Eclips, Apache Tomcat v8.5(Local), JDK, Oracle-11XE(가상머신/Centos 7 이용)
+  
 
 # 코리아IT아카데미 교육이수 내역
 
