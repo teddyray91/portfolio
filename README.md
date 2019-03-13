@@ -1,6 +1,6 @@
 # 포트폴리오(Update Content : 19.03.13)
 
->**프로젝트1(Project)**
+>**Spring 프로젝트(Project)**
 
 [농장-마트 ERP 시스템(바로가기)](https://github.com/teddyray91/serpproject/tree/master/Spring_Project)
 
@@ -23,7 +23,7 @@
   
   - 사용 Tools : Eclips(Spring Tool Suite), Apache Tomcat v8.5(Local), JDK, MAVEN, Oracle-11XE(가상머신/Centos 7 이용)
   
->**프로젝트2(Project)**
+>**MVC Model 2 프로젝트(Project)**
 
 [대학생-직장인 커뮤니티 게시판 웹(바로가기)](https://github.com/teddyray91/jspproject/tree/master/JSP_miniProject)
 
