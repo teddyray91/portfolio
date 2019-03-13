@@ -14,6 +14,7 @@
   * 웹 디자인 및 구성 : HTML, CSS, BootStrap, JavaScript, Fontawesome
    * 참고 웹사이트  : [W3School](www.W3School.com)
   * ServerSide : JAVA, JSP, JSTL, EL
+  * DB Handle : MyBatis
   * 사용 Tools : Eclips(Spring Tool Suite), Apache Tomcat v8.5(Local), JDK, MAVEN, Oracle-11XE(가상머신/Centos 7 이용)
   
 >**프로젝트2(Project)**
