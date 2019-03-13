@@ -9,12 +9,17 @@
   
 **공헌내용(Contribution)**
   - 참여도(4인 프로젝트): 90%
+  
   - 역할(팀원) : DB설계, 웹 Layout 스케치 및 제작, DB액션, 웹 디자인 등.
+  
   - 화면 처리, 액션, 결과 : jQuery, Ajax, JSON
+  
   - 웹 디자인 및 구성 : HTML, CSS, BootStrap, JavaScript, Fontawesome
-   * 참고 웹사이트  : [W3School](www.W3School.com)
+     * 참고 웹사이트  : [W3School](www.W3School.com)
   - ServerSide : JAVA, JSP, JSTL, EL
+  
   - DB Handle : MyBatis
+  
   - 사용 Tools : Eclips(Spring Tool Suite), Apache Tomcat v8.5(Local), JDK, MAVEN, Oracle-11XE(가상머신/Centos 7 이용)
   
 >**프로젝트2(Project)**
