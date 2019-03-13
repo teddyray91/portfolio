@@ -15,7 +15,7 @@
   - 화면 처리, 액션, 결과 : jQuery, Ajax, JSON
   
   - 웹 디자인 및 구성 : HTML, CSS, BootStrap, JavaScript, Fontawesome
-     * 참고 웹사이트  : [W3School](http://www.W3School.com)
+     * 참고 웹사이트  : [W3School](https://www.w3schools.com)
   - ServerSide : JAVA, JSP, JSTL, EL
   
   - DB Handle : MyBatis
